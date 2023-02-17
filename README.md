@@ -77,9 +77,12 @@ Helsinki, Finland
 - designing and implementing matchmaking and leaderboards services
 - managing analytics pipelines based on GCP and Firebase
 - leading backend adaptation and launch for AWS China
-- managing AWS accounts.net core, AWS, terraform, k8s, helm, postgresql, TeamCity, GCP - working on service-based game
-  backend - designing and implementing matchmaking and leaderboards services - managing analytics pipelines based on GCP
-  and Firebase - leading backend adaptation and launch for AWS China - managing AWS accounts
+- managing AWS accounts.net core, AWS, terraform, k8s, helm, postgresql, TeamCity, GCP
+- working on service-based game backend
+- designing and implementing matchmaking and leaderboards services
+- managing analytics pipelines based on GCP and Firebase
+- leading backend adaptation and launch for AWS China
+- managing AWS accounts
 
 <hr/>
 
@@ -116,9 +119,9 @@ Berlin, Germany
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 - implementing backend for Cruises search engine and Cruise provider data integration
-- working on automated accuracy system using Selenium scrapersjava, spring, mysql, AWS - implementing backend for
-  Cruises search engine and Cruise provider data integration - working on automated accuracy system using Selenium
-  scrapers
+- working on automated accuracy system using Selenium scrapersjava, spring, mysql, AWS
+- implementing backend for Cruises search engine and Cruise provider data integration
+- working on automated accuracy system using Selenium scrapers
 
 <hr/>
 
