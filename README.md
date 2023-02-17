@@ -7,14 +7,14 @@ My name is Egor, and i'm a software developer (clap clap 👏).
 📍 Location: Copenhagen, Denmark 🇩🇰
 
 <hr/>
-<details>
+
   <summary><strong>Social links and contacts</strong></summary>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-shubin/?locale=en_US)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1553934/esin88)
-</details>
+
 <hr/>
-<details>
+
   <summary><strong>Resume</strong></summary>
 
 ### AltaPay - Software Architect
@@ -214,5 +214,3 @@ Moscow, Russia
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 Developed from scratch remote controlled smart house application, based on KNX/EIB protocol, C# and Falcon SDK
-
-</details>
