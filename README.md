@@ -19,10 +19,10 @@ My name is Egor, and i'm a software developer (clap clap 👏).
 
 ### AltaPay - Software Architect
 
-Copenhagen, Capital Region, Denmark
-<br>Mar 2022 - Present
-<br>Tech stack: java, gradle, docker, gitlab CI, kubernetes, mysql, helm, AWS, terraform, ansible
-<br>
+**Copenhagen, Capital Region, Denmark**<br>
+**Mar 2022 - Present**<br>
+Tech stack: java, gradle, docker, gitlab CI, kubernetes, mysql, helm, AWS, terraform, ansible<br>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -42,10 +42,10 @@ Copenhagen, Capital Region, Denmark
 
 ### AltaPay - Senior Software Engineer
 
-Copenhagen, Capital Region, Denmark
-<br>Aug 2021 - Feb 2022
-<br>Tech stack: java, gradle, php, docker, mysql, gitlab CI
-<br>
+**Copenhagen, Capital Region, Denmark**<br>
+**Aug 2021 - Feb 2022**<br>
+Tech stack: java, gradle, php, docker, mysql, gitlab CI<br>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -59,10 +59,10 @@ Copenhagen, Capital Region, Denmark
 
 ### Dodreams Ltd. - Lead Backend Developer
 
-Helsinki, Finland
-<br>Mar 2020 - Jul 2021
-<br>Tech stack: .net core, AWS, terraform, k8s, helm, postgresql, TeamCity, GCP, Firebase
-<br>
+**Helsinki, Finland**<br>
+**Mar 2020 - Jul 2021**<br>
+Tech stack: .net core, AWS, terraform, k8s, helm, postgresql, TeamCity, GCP, Firebase<br>
+
 ![.NET Core](https://img.shields.io/badge/.NET-Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -88,10 +88,10 @@ Helsinki, Finland
 
 ### Rovio Entertainment - Backend Developer
 
-Helsinki Area, Finland
-<br>Jun 2018 - Feb 2020
-<br>Tech stack: java, AWS, postgresql, unity3d, terraform, docker, kubernetes
-<br>
+**Helsinki Area, Finland**<br>
+**Jun 2018 - Feb 2020**<br>
+Tech stack: java, AWS, postgresql, unity3d, terraform, docker, kubernetes<br>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -109,10 +109,10 @@ Helsinki Area, Finland
 
 ### KAYAK - Java Developer
 
-Berlin, Germany
-<br>Aug 2016 - May 2018
-<br>Tech stack: java, spring, mysql, AWS
-<br>
+**Berlin, Germany**<br>
+**Aug 2016 - May 2018**<br>
+Tech stack: java, spring, selenium, mysql, AWS<br>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -127,10 +127,10 @@ Berlin, Germany
 
 ### Mail.ru Group - Senior Java Developer
 
-Moscow, Russia
-<br>Aug 2013 - Jul 2016
-<br>Tech stack: java, postgresql
-<br>
+**Moscow, Russia**<br>
+**Aug 2013 - Jul 2016**<br>
+Tech stack: java, postgresql<br>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -151,10 +151,10 @@ Personal key developments:
 
 ### Freelance - Software developer
 
-Moscow, Russia
-<br>Nov 2011 - Jul 2013
-<br>Tech stack: java, unity3d, C#, postgresql
-<br>
+**Moscow, Russia**<br>
+**Nov 2011 - Jul 2013**<br>
+Tech stack: java, unity3d, C#, postgresql<br>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Unity3d](https://img.shields.io/badge/Unity_3d-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -166,9 +166,9 @@ Worked on various projects, mostly related to video games and production automat
 
 ### Info Connect - Java Developer
 
-Moscow, Russia
-<br>Nov 2010 - Nov 2011
-<br>Tech stack: java, postgresql, php, symfony
+**Moscow, Russia**<br>
+**Nov 2010 - Nov 2011**<br>
+Tech stack: java, postgresql, php, symfony<br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -181,9 +181,9 @@ Java backend developer for social network game
 
 ### COMCON - Fullstack / .NET Developer
 
-Moscow, Russia
-<br>Apr 2010 - Nov 2010
-<br>Tech stack: .Net, MSSQL, javascript, jquery
+**Moscow, Russia**<br>
+**Apr 2010 - Nov 2010**<br>
+Tech stack: .Net, MSSQL, javascript, jquery<br>
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -196,9 +196,9 @@ Fullstack ASP.Net developer for online survey system
 
 ### Si-Trans - C++ Developer
 
-Moscow, Russia
-<br>Sep 2008 - Mar 2010
-<br>Tech stack: C++, MSSQL
+**Moscow, Russia**<br>
+**Sep 2008 - Mar 2010**<br>
+Tech stack: C++, MSSQL<br>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -209,9 +209,9 @@ C++ developer for transportation management and monitoring application
 
 ### TRAAMS Group - C# Developer
 
-Moscow, Russia
-<br>Sep 2007 - Jan 2009
-<br>Tech stack: C#, mysql
+**Moscow, Russia**<br>
+**Sep 2007 - Jan 2009**<br>
+Tech stack: C#, mysql<br>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
