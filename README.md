@@ -4,7 +4,7 @@ My name is Egor, and i'm a software developer (clap clap 👏).
 
 🔍 Primary skill keywords: **backend**, **java**, **golang**, **AWS**, **kubernetes**, **helm**, **docker**, **postgresql**
 
-📍 Location: Copenhagen, Denmark 🇩🇰
+📍 Location: **Copenhagen, Denmark** 🇩🇰
 
 <hr/>
 
