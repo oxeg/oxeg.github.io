@@ -2,20 +2,20 @@
 
 My name is Egor, and i'm a software developer (clap clap 👏).
 
-🔍 Primary skill keywords: **backend**, **java**, **golang**, **AWS**, **kubernetes**, **helm**, **docker**
+🔍 Primary skill keywords: **backend**, **java**, **golang**, **AWS**, **kubernetes**, **helm**, **docker**, **postgresql**
 
 📍 Location: Copenhagen, Denmark 🇩🇰
 
 <hr/>
 
-  <summary><strong>Social links and contacts</strong></summary>
+## Social links and contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-shubin/?locale=en_US)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1553934/esin88)
 
 <hr/>
 
-  <summary><strong>Resume</strong></summary>
+## Resume
 
 ### AltaPay - Software Architect
 
