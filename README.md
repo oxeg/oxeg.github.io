@@ -222,9 +222,7 @@ Developed from scratch remote controlled smart house application, based on KNX/E
 
 ## Education
 
-<img src="https://user-images.githubusercontent.com/2689981/221865589-3630fc91-afbd-4e42-8849-5fa2ebad442f.png" width="200" height="200" align="left">
-
-<br/>
+<img src="https://user-images.githubusercontent.com/2689981/222086590-04afe342-1fc7-485f-a6a9-37e3ed333414.png" width="200" height="200" align="left">
 
 ### BMSTU - Bauman Moscow State Technical University
 
