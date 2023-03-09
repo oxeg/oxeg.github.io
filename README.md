@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/2689981" width="256" height="256" align="left">
-
 ### Hi there
 
 My name is Egor, and i'm a software developer (clap clap 👏).
@@ -8,9 +6,6 @@ My name is Egor, and i'm a software developer (clap clap 👏).
 
 📍 Location: **Copenhagen, Denmark** 🇩🇰
 
-<br/>
-<br/>
-<br/>
 <hr/>
 
 ## Social links and contacts
