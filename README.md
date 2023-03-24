@@ -1,17 +1,16 @@
 ### Hi there
 
-My name is Egor, and i'm a software developer (clap clap 👏).
+My name is Egor, and i'm a software developer
 
-🔍 Primary skill keywords: **backend**, **java**, **golang**, **AWS**, **kubernetes**, **helm**, **docker**, **postgresql**
+Primary skills: **backend**, **java**, **golang**, **AWS**, **kubernetes**, **helm**, **docker**, **postgresql**
 
-📍 Location: **Copenhagen, Denmark** 🇩🇰
+Location: **Copenhagen, Denmark**
 
 <hr/>
 
-## Social links and contacts
+[LinkedIn](https://www.linkedin.com/in/egor-shubin/?locale=en_US)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-shubin/?locale=en_US)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1553934/esin88)
+[StackOverflow](https://stackoverflow.com/users/1553934/esin88)
 
 <hr/>
 
@@ -21,18 +20,7 @@ My name is Egor, and i'm a software developer (clap clap 👏).
 
 **Copenhagen, Capital Region, Denmark**<br>
 **Mar 2022 - Present**<br>
-Tech stack: java, gradle, docker, gitlab CI, kubernetes, mysql, helm, AWS, terraform, ansible<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+**Tech stack: java, gradle, docker, gitlab CI, kubernetes, mysql, helm, AWS, terraform, ansible**<br>
 
 - overall platform automation (building, testing, deployment)
 - dockerization and kubernetization of payment processing microservice platform
@@ -44,14 +32,7 @@ Tech stack: java, gradle, docker, gitlab CI, kubernetes, mysql, helm, AWS, terra
 
 **Copenhagen, Capital Region, Denmark**<br>
 **Aug 2021 - Feb 2022**<br>
-Tech stack: java, gradle, php, docker, mysql, gitlab CI<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+**Tech stack: java, gradle, php, docker, mysql, gitlab CI**<br>
 
 - building backend for payment processing and integrations microservice platform
 
@@ -61,17 +42,7 @@ Tech stack: java, gradle, php, docker, mysql, gitlab CI<br>
 
 **Helsinki, Finland**<br>
 **Mar 2020 - Jul 2021**<br>
-Tech stack: .net core, AWS, terraform, k8s, helm, postgresql, TeamCity, GCP, Firebase<br>
-
-![.NET Core](https://img.shields.io/badge/.NET-Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+**Tech stack: .net core, AWS, terraform, k8s, helm, postgresql, TeamCity, GCP, Firebase**<br>
 
 - working on service-based game backend
 - designing and implementing matchmaking and leaderboards services
@@ -90,15 +61,7 @@ Tech stack: .net core, AWS, terraform, k8s, helm, postgresql, TeamCity, GCP, Fir
 
 **Helsinki Area, Finland**<br>
 **Jun 2018 - Feb 2020**<br>
-Tech stack: java, AWS, postgresql, unity3d, terraform, docker, kubernetes<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Unity3d](https://img.shields.io/badge/Unity_3d-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+**Tech stack: java, AWS, postgresql, unity3d, terraform, docker, kubernetes**<br>
 
 - participated in Angry Birds Dream Blast Bot project (embedding Unity ML agents into the game, working on backend and
   AWS infrastructure)
@@ -111,12 +74,7 @@ Tech stack: java, AWS, postgresql, unity3d, terraform, docker, kubernetes<br>
 
 **Berlin, Germany**<br>
 **Aug 2016 - May 2018**<br>
-Tech stack: java, spring, selenium, mysql, AWS<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+**Tech stack: java, spring, selenium, mysql, AWS**<br>
 
 - implementing backend for Cruises search engine and Cruise provider data integration
 - working on automated accuracy system using Selenium scrapersjava, spring, mysql, AWS
@@ -129,10 +87,7 @@ Tech stack: java, spring, selenium, mysql, AWS<br>
 
 **Moscow, Russia**<br>
 **Aug 2013 - Jul 2016**<br>
-Tech stack: java, postgresql<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Tech stack: java, postgresql**<br>
 
 Worked in Allods Team (300+ employees) on Skyforge MMO game in server team on high scalable distributed game server
 with Unit Testing (JUnit) and Continuous Integration System (TeamCity). I also developed web based application for
@@ -153,12 +108,7 @@ Personal key developments:
 
 **Moscow, Russia**<br>
 **Nov 2011 - Jul 2013**<br>
-Tech stack: java, unity3d, C#, postgresql<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Unity3d](https://img.shields.io/badge/Unity_3d-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Tech stack: java, unity3d, C#, postgresql**<br>
 
 Worked on various projects, mostly related to video games and production automation backend
 
@@ -168,12 +118,7 @@ Worked on various projects, mostly related to video games and production automat
 
 **Moscow, Russia**<br>
 **Nov 2010 - Nov 2011**<br>
-Tech stack: java, postgresql, php, symfony<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
+**Tech stack: java, postgresql, php, symfony**<br>
 
 Java backend developer for social network game
 
@@ -183,12 +128,7 @@ Java backend developer for social network game
 
 **Moscow, Russia**<br>
 **Apr 2010 - Nov 2010**<br>
-Tech stack: .Net, MSSQL, javascript, jquery<br>
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+**Tech stack: .Net, MSSQL, javascript, jquery**<br>
 
 Fullstack ASP.Net developer for online survey system
 
@@ -198,10 +138,7 @@ Fullstack ASP.Net developer for online survey system
 
 **Moscow, Russia**<br>
 **Sep 2008 - Mar 2010**<br>
-Tech stack: C++, MSSQL<br>
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+**Tech stack: C++, MSSQL**<br>
 
 C++ developer for transportation management and monitoring application
 
@@ -211,10 +148,7 @@ C++ developer for transportation management and monitoring application
 
 **Moscow, Russia**<br>
 **Sep 2007 - Jan 2009**<br>
-Tech stack: C#, mysql<br>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**Tech stack: C#, mysql**<br>
 
 Developed from scratch remote controlled smart house application, based on KNX/EIB protocol, C# and Falcon SDK
 
@@ -222,16 +156,12 @@ Developed from scratch remote controlled smart house application, based on KNX/E
 
 ## Education
 
-<img src="https://user-images.githubusercontent.com/2689981/222086590-04afe342-1fc7-485f-a6a9-37e3ed333414.png" width="200" height="200" align="left">
+<img src="https://user-images.githubusercontent.com/2689981/222086590-04afe342-1fc7-485f-a6a9-37e3ed333414.png" width="100" height="100" align="left">
 
 ### BMSTU - Bauman Moscow State Technical University
 
 **Moscow, Russia**<br>
-**Sep 2005 - June 2011**<br>
-
+**Sep 2005 - June 2011**
 **Engineer (CS MSc), Information Systems and Telecommunications**
-<br/>
-<br/>
-<br/>
 <br/>
 <hr/>
