@@ -1,6 +1,4 @@
-remote_theme: "dracula/gh-pages"
+remote_theme: jekyll/minima
 
-# remote_theme: jekyll/minima
-
-# minima:
-#   skin: dark
+minima:
+  skin: dark
